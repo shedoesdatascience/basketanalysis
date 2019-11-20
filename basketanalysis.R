@@ -1,5 +1,5 @@
 ###############################################
-#### Name: super_retail_group_case_study.R ####
+#### Name: basketanalysis.R ####
 #### Author: Sheenal Srivastava            ####
 ### Purpose: Insights and model data       ####
 ###############################################
